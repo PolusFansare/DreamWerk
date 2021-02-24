@@ -1,2 +1,2 @@
 # DreamWerk
-An APP and Admin Dashboard, just like YouTube...
+A dashboard like YouTube with APIs and Admin panel.
